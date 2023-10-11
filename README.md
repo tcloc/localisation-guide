@@ -1,6 +1,6 @@
 # A Guide to Creating Localisation-Friendly User Interfaces
 
-This guide was created by a group of students studying for a master’s degree in Technical Communication and Localisation at the University of Strasbourg in France.
+[This guide](https://github.com/tcloc/localisation-guide/wiki/Localisation-Guide) was created by a group of students studying for a master’s degree in Technical Communication and Localisation at the University of Strasbourg in France.
 
 The aim of the guide is to assist IT developers and designers in creating user interfaces (UIs) that are optimised for localisation. It addresses software interfaces in general rather than for a specific genre such as gaming.
 
